@@ -1,7 +1,7 @@
 backend/venv/* linguist-vendored
 backend/__pycache__/* linguist-vendored
 
-linguist-vendored=true
+./* linguist-vendored=true
 
 *.py linguist-vendored=false
 *.js linguist-vendored=false
